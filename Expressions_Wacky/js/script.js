@@ -1,7 +1,9 @@
-// Stephanie Davis//
+/**
+ * Created by stephaniedavis on 4/8/14.
+ */
 
 
- var spidersEat = alert("They say that an average person eats about three spiders per night while sleeping. \n Would you like to see how many your entire family consumes just on a single night?");
+var spidersEat = alert("They say that an average person eats about three spiders per night while sleeping. \n Would you like to see how many your entire family consumes just on a single night?");
 
  var hoursSlept = prompt ("How many hours do you normally sleep?")
  var famSleep = prompt ("How many hours does the rest of your family normally sleep?")
